@@ -5,8 +5,9 @@ export default {
   
       const redirects = {
         "/": "https://bargenial.com.br/importadora-de-vinhos-e-espumantes",
-        "/champagnes": "https://bargenial.com.br/espumantes-premium",
-        "/vinhos": "https://bargenial.com.br/melhores-vinhos-importados"
+        "/event-night-life-tips-this-is-going-to-extremely/": "https://bargenial.com.br/importadora-de-vinhos-e-espumantes",
+        "/enjoyment-outside-relatives-hobbies/": "https://bargenial.com.br/importadora-de-vinhos-e-espumantes",
+        "/vinhos?pais=franca": "https://bargenial.com.br/importadora-de-vinhos-e-espumantes",
       }
   
       if (redirects[path]) {
